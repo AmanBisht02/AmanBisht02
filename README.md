@@ -4,7 +4,12 @@
                                                                         I am a front-end developer
 
 •	🔭 I’m currently working on private projects
+
 •	🌱 I’m currently learning MERN stack
+
 •	Currently working on front-end skills development
+
 •	🤔 I’m looking for help with React Js
+
 •	⚡ Fun fact: I am also a Gamer 🎮
+
