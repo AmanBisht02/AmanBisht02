@@ -2,6 +2,7 @@
 <img
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
   alt=""
+ style="align-self: center;
 />
 <h1 align="center">Hi 👋, I'm Aman Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
