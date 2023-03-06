@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **private projects**
 -  🌱 I’m currently learning
 **MEAN stack**
-- 🤝 I’m looking for help with **React Js**
+- 🤝 I’m looking for help with **Angular Js**
 - ⚡ Fun fact **I am a Gamer 🎮**
 
 <h3 align="left">Languages and Tools:</h3>
