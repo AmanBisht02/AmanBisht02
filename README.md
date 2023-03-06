@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **private projects**
 -  🌱 I’m currently learning
-**MERN stack**
+**MEAN stack**
 - 🤝 I’m looking for help with **React Js**
 - ⚡ Fun fact **I am a Gamer 🎮**
 
